@@ -1,0 +1,662 @@
+transaction_date,customer_id,description,stock_code,invoice_no,quantity,sales,unit_price
+12/1/2020 12:38,17897.0,Rechargeable Pet Nail Grinder,22960,,-1,-25.5,25.5
+12/2/2020 17:27,15384.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+12/6/2020 12:55,14487.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+12/6/2020 13:17,16550.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+12/6/2020 15:09,16861.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,-1,-17.7,17.7
+12/6/2020 15:12,13481.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+12/7/2020 12:45,17511.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+12/7/2020 12:45,17511.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,9.9
+12/7/2020 12:45,17511.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+12/7/2020 12:45,17511.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+12/8/2020 13:07,13113.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+12/8/2020 13:18,15311.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+12/8/2020 13:33,14299.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+12/8/2020 15:57,13370.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+12/9/2020 14:40,15750.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,11.7
+12/9/2020 15:43,15329.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+12/10/2020 14:03,15514.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,0,0.0,17.7
+12/10/2020 15:01,13798.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+12/10/2020 15:01,13798.0,Earth Rated Dog Poop Bags,85099B,,-2,-19.8,9.9
+12/10/2020 15:01,13798.0,Pet Grooming Brush,20725,,0,0.0,8.7
+12/12/2020 12:51,13715.0,NexGard Chew for Dogs,82484,,0,0.0,38.7
+12/13/2020 13:28,14085.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+12/13/2020 16:19,13448.0,ChomChom Pet Hair Remover - Reusable Cat and Dog Hair Remover,22114,,0,0.0,23.7
+12/14/2020 9:54,13802.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+12/14/2020 9:59,16558.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+12/14/2020 10:33,15093.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-2,-131.4,65.7
+12/14/2020 11:26,13599.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,0,0.0,11.7
+12/14/2020 11:30,16782.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+12/14/2020 11:45,17041.0,ChomChom Pet Hair Remover - Reusable Cat and Dog Hair Remover,22114,,0,0.0,23.7
+12/14/2020 11:54,17017.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+12/14/2020 13:06,14415.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+12/15/2020 17:04,17820.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+12/16/2020 14:19,17188.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+12/16/2020 16:30,18065.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+12/17/2020 9:37,16013.0,Dog and Puppy Pads,85123A,,-83,-1269.9,15.3
+12/20/2020 12:25,14911.0,Dog and Puppy Pads,85123A,,-4,-70.8,17.7
+12/20/2020 13:54,14299.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-2,-131.4,65.7
+12/20/2020 14:05,14911.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+12/20/2020 15:52,12471.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-3,-197.1,65.7
+12/21/2020 12:38,13319.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+12/21/2020 16:31,,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+12/22/2020 13:20,17239.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+12/23/2020 11:50,13534.0,Earth Rated Dog Poop Bags,85099B,,-1,-11.7,11.7
+12/23/2020 11:50,13534.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+1/4/2021 10:48,14606.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+1/4/2021 15:46,15373.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-76.5,76.5
+1/5/2021 10:50,12782.0,Rechargeable Pet Nail Grinder,22960,,-2,-45.0,22.5
+1/5/2021 11:42,12471.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+1/5/2021 15:40,17213.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+1/5/2021 15:43,13081.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+1/5/2021 16:02,17511.0,ProBiotic Supplements for Dogs,79321,,0,0.0,25.5
+1/6/2021 11:40,14680.0,Pet Grooming Brush,20725,,0,0.0,8.7
+1/6/2021 11:40,14680.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+1/7/2021 9:32,17230.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+1/7/2021 10:56,13680.0,Earth Rated Dog Poop Bags,85099B,,-16,-158.4,9.9
+1/7/2021 10:56,13680.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,-3,-35.1,11.7
+1/7/2021 10:56,13680.0,Pet Grooming Brush,20725,,-16,-139.2,8.7
+1/7/2021 10:56,13680.0,ProBiotic Supplements for Dogs,79321,,-12,-306.0,25.5
+1/7/2021 10:56,13680.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-1,-5.1,5.1
+1/10/2021 14:08,12471.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+1/11/2021 11:19,14299.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-3,-197.1,65.7
+1/11/2021 11:22,16875.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+1/11/2021 11:42,15194.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+1/11/2021 15:02,14733.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+1/11/2021 17:35,13458.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+1/12/2021 12:30,13113.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+1/12/2021 12:51,18226.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+1/14/2021 14:33,14299.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+1/14/2021 16:55,13455.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+1/14/2021 16:58,16235.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+1/14/2021 17:11,13862.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+1/17/2021 16:20,14292.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+1/20/2021 16:15,12683.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+1/20/2021 17:06,17364.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+1/21/2021 11:17,14320.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+1/21/2021 11:35,12626.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+1/21/2021 12:54,14441.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+1/21/2021 16:41,15281.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+1/21/2021 17:04,18260.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+1/23/2021 16:08,13798.0,Earth Rated Dog Poop Bags,85099B,,-1,-9.9,9.9
+1/23/2021 16:08,13798.0,Pet Grooming Brush,20725,,0,0.0,8.7
+1/24/2021 9:30,14796.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+1/24/2021 11:14,16782.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+1/25/2021 12:01,14680.0,Pet Grooming Brush,20725,,0,0.0,8.7
+1/25/2021 12:25,15213.0,Pet Grooming Brush,20725,,0,0.0,9.9
+1/25/2021 12:34,18277.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+1/25/2021 12:41,17091.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+1/25/2021 12:45,14389.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,11.7
+1/25/2021 12:45,14389.0,Pet Grooming Brush,20725,,0,0.0,9.9
+1/25/2021 13:15,12471.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+1/25/2021 13:26,16191.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+1/26/2021 15:04,13098.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+1/26/2021 17:25,15215.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+1/27/2021 9:35,13050.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+1/27/2021 12:00,12709.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+1/27/2021 12:54,13777.0,Canned Cat Food,21137,,0,0.0,20.34
+1/27/2021 14:26,14299.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-2,-131.4,65.7
+1/27/2021 16:05,16124.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+1/27/2021 17:11,16923.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+1/28/2021 9:18,18075.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+1/28/2021 9:32,14146.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+1/28/2021 14:07,14229.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+1/31/2021 11:22,16839.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+1/31/2021 11:27,15827.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+1/31/2021 11:27,15827.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+2/1/2021 10:49,14627.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+2/1/2021 15:38,17511.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+2/1/2021 15:38,17511.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,9.9
+2/1/2021 15:38,17511.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+2/1/2021 15:57,16779.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+2/2/2021 9:39,12559.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+2/3/2021 12:59,14133.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+2/4/2021 12:29,13113.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+2/7/2021 12:44,12472.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+2/8/2021 14:55,12709.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+2/10/2021 14:13,15602.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+2/10/2021 14:59,14475.0,Pet Grooming Brush,20725,,0,0.0,9.9
+2/10/2021 15:51,16558.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+2/11/2021 10:41,12471.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+2/11/2021 10:41,12471.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+2/11/2021 10:49,14441.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+2/11/2021 11:44,15044.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+2/11/2021 15:43,15658.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+2/11/2021 17:13,15270.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+2/13/2021 14:28,15640.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+2/13/2021 15:45,16897.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+2/14/2021 9:54,12476.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+2/14/2021 10:56,14431.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+2/15/2021 11:28,14701.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+2/15/2021 15:46,17819.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+2/18/2021 14:54,13408.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+2/18/2021 16:32,15122.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+2/20/2021 10:30,15465.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+2/20/2021 13:48,14667.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,11.7
+2/21/2021 11:46,17865.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+2/22/2021 15:22,18055.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+2/23/2021 9:41,14735.0,Rechargeable Pet Nail Grinder,22960,,-1,-22.5,22.5
+2/24/2021 9:49,17147.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/2/2021 15:52,13093.0,Pet Grooming Brush,20725,,0,0.0,9.9
+3/2/2021 15:52,13093.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+3/2/2021 16:20,17442.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/2/2021 16:33,12753.0,Pet Grooming Brush,20725,,0,0.0,8.7
+3/2/2021 16:57,14639.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+3/2/2021 17:04,15189.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,0,0.0,29.7
+3/2/2021 17:04,15189.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+3/3/2021 11:54,17017.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+3/3/2021 12:11,14276.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+3/3/2021 16:25,14239.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/3/2021 16:26,14239.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/4/2021 12:28,13113.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+3/6/2021 10:08,15465.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+3/7/2021 11:16,17048.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+3/7/2021 11:18,14051.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-76.5,76.5
+3/7/2021 11:41,12484.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/7/2021 13:05,15189.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+3/7/2021 13:35,13089.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+3/7/2021 13:37,12921.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/7/2021 13:49,14048.0,Dog and Puppy Pads,85123A,,-1,-17.7,17.7
+3/7/2021 15:52,15827.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/9/2021 11:18,15078.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/9/2021 15:08,16057.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/10/2021 11:17,14211.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/10/2021 15:03,17567.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/11/2021 11:18,16419.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/14/2021 11:45,12584.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/14/2021 12:27,14350.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+3/14/2021 13:05,15502.0,Indoor Pet Camera,22502,,0,0.0,35.7
+3/15/2021 15:42,15215.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+3/16/2021 11:39,18183.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/17/2021 13:55,17511.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+3/17/2021 15:46,14226.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/17/2021 17:16,13093.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/17/2021 18:13,12520.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/17/2021 18:20,14156.0,Indoor Pet Camera,22502,,0,0.0,29.7
+3/17/2021 18:25,18183.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/17/2021 18:44,17675.0,NexGard Chew for Dogs,82484,,0,0.0,40.5
+3/18/2021 13:32,12748.0,Pet Odor Eliminator,84879,,0,0.0,10.14
+3/20/2021 10:17,15465.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+3/20/2021 11:19,16156.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/21/2021 12:50,14606.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/21/2021 14:39,15189.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+3/22/2021 11:54,15044.0,NexGard Chew for Dogs,82484,,0,0.0,47.4
+3/22/2021 11:54,15044.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/23/2021 8:55,15658.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/24/2021 14:15,15189.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+3/25/2021 10:43,,Pet Odor Eliminator,84879,,-1,-10.14,10.14
+3/25/2021 13:37,12528.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/27/2021 10:19,15465.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+3/27/2021 12:05,12921.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,11.7
+3/27/2021 12:14,16256.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,0,0.0,29.7
+3/27/2021 12:16,14911.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/29/2021 10:55,14245.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/29/2021 15:06,17511.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/29/2021 15:27,14680.0,Pet Grooming Brush,20725,,0,0.0,8.7
+3/30/2021 15:06,12921.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/30/2021 15:12,12472.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/30/2021 15:14,15785.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+3/30/2021 16:54,16713.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+3/31/2021 11:58,16801.0,Rechargeable Pet Nail Grinder,22960,,-1,-25.5,25.5
+3/31/2021 11:58,16801.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+3/31/2021 12:20,16619.0,Indoor Pet Camera,22502,,0,0.0,35.7
+3/31/2021 15:54,13777.0,Dog and Puppy Pads,85123A,,-1,-15.3,15.3
+3/31/2021 17:16,14031.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-8,-525.6,65.7
+4/4/2021 9:00,13481.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+4/4/2021 12:28,15223.0,Rechargeable Pet Nail Grinder,22960,,-1,-25.5,25.5
+4/4/2021 12:28,15223.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-76.5,76.5
+4/5/2021 11:42,15674.0,Dog and Puppy Pads,85123A,,-1,-17.7,17.7
+4/5/2021 11:42,15674.0,Indoor Pet Camera,22502,,0,0.0,35.7
+4/5/2021 11:42,15674.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-1,-29.7,29.7
+4/5/2021 11:42,15674.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,-1,-11.7,11.7
+4/5/2021 11:42,15674.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-2,-10.2,5.1
+4/5/2021 11:42,15674.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+4/6/2021 17:16,17438.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+4/7/2021 10:15,16422.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,-6,-91.8,15.3
+4/11/2021 9:45,12656.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+4/11/2021 12:17,13113.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+4/11/2021 12:17,13113.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+4/12/2021 11:50,16558.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+4/12/2021 11:59,13098.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+4/12/2021 12:35,12854.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+4/12/2021 16:21,17576.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+4/12/2021 16:39,13324.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+4/13/2021 9:02,15737.0,Pet Grooming Brush,20725,,0,0.0,9.9
+4/13/2021 9:53,15109.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+4/13/2021 9:55,15674.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+4/13/2021 13:49,16652.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+4/13/2021 13:51,16652.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+4/14/2021 11:19,13089.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-76.5,76.5
+4/14/2021 16:43,17017.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+4/18/2021 12:28,16550.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+4/18/2021 13:02,13098.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+4/18/2021 13:08,15749.0,Dog and Puppy Pads,85123A,,-321,-4911.3,15.3
+4/18/2021 13:59,13798.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,10.74
+4/19/2021 16:33,13134.0,Rechargeable Pet Nail Grinder,22960,,-1,-25.5,25.5
+4/20/2021 11:48,15465.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+4/20/2021 15:56,13717.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+4/20/2021 15:57,14323.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+4/21/2021 16:38,15594.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+4/27/2021 11:25,13113.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+4/27/2021 16:53,13993.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+4/28/2021 19:43,16163.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-16,-398.4,24.9
+5/4/2021 15:44,12840.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+5/5/2021 18:14,13089.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-2,-131.4,65.7
+5/9/2021 14:47,16242.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+5/10/2021 9:59,13269.0,Indoor Pet Camera,22502,,0,0.0,35.7
+5/10/2021 16:05,13098.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+5/11/2021 14:52,14367.0,Dog and Puppy Pads,85123A,,-2,-35.4,17.7
+5/11/2021 15:17,14288.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+5/12/2021 10:29,14606.0,Pet Grooming Brush,20725,,0,0.0,9.9
+5/12/2021 19:33,13971.0,Pet Hair Remover,23203,,-1,-12.48,12.48
+5/16/2021 10:10,13662.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,0,0.0,29.7
+5/17/2021 17:24,15596.0,Indoor Pet Camera,22502,,0,0.0,35.7
+5/18/2021 9:20,13650.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+5/18/2021 14:01,15311.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,10.74
+5/19/2021 12:15,12471.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+5/19/2021 14:47,13319.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+5/19/2021 18:10,13081.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,-5,-148.5,29.7
+5/20/2021 13:54,12681.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+5/22/2021 13:27,15555.0,Pet Grooming Brush,20725,,0,0.0,9.9
+5/22/2021 13:27,15555.0,Pet Odor Eliminator,84879,,0,0.0,10.14
+5/23/2021 17:08,12749.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+5/23/2021 17:15,13310.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+5/23/2021 17:40,17017.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+5/24/2021 12:44,16086.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+5/24/2021 16:59,13549.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+5/24/2021 17:28,15596.0,Indoor Pet Camera,22502,,0,0.0,35.7
+5/24/2021 17:32,14194.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,0,0.0,29.7
+5/25/2021 16:57,12935.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+5/25/2021 16:59,14292.0,Pet Hair Remover,23203,,-1,-12.48,12.48
+5/26/2021 11:02,13658.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+5/26/2021 11:04,13089.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+5/26/2021 19:56,12909.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,0,0.0,29.7
+5/26/2021 19:56,12909.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+5/26/2021 19:56,13659.0,NexGard Chew for Dogs,82484,,0,0.0,47.7
+5/26/2021 19:58,17865.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+5/27/2021 10:35,15660.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+5/27/2021 10:36,15122.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+5/27/2021 10:48,13050.0,NexGard Chew for Dogs,82484,,0,0.0,47.7
+5/27/2021 10:58,18225.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+5/27/2021 10:59,16341.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+5/27/2021 12:57,17272.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+6/1/2021 15:19,17621.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+6/1/2021 15:39,12909.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,0,0.0,29.7
+6/1/2021 16:06,13599.0,Templation Soft Cat Treats,23084,,0,0.0,12.48
+6/1/2021 16:29,16496.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,-1,-12.48,12.48
+6/6/2021 12:33,15073.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,0,0.0,29.7
+6/6/2021 12:33,15073.0,ProBiotic Supplements for Dogs,79321,,0,0.0,34.5
+6/7/2021 14:29,15189.0,Templation Soft Cat Treats,23084,,0,0.0,12.48
+6/8/2021 15:29,13599.0,Templation Soft Cat Treats,23084,,0,0.0,12.48
+6/10/2021 9:30,13094.0,Dog and Puppy Pads,85123A,,-3,-53.1,17.7
+6/10/2021 9:34,15108.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+6/10/2021 15:39,15098.0,Indoor Pet Camera,22502,,-10,-297.0,29.7
+6/13/2021 15:25,13505.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+6/13/2021 16:06,17115.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+6/13/2021 16:14,13012.0,Indoor Pet Camera,22502,,0,0.0,35.7
+6/13/2021 16:26,15827.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+6/14/2021 11:37,13319.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+6/15/2021 12:37,15005.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+6/15/2021 13:25,17511.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+6/17/2021 11:13,16170.0,Templation Soft Cat Treats,23084,,0,0.0,12.48
+6/17/2021 13:22,15311.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,10.74
+6/19/2021 11:27,13097.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+6/20/2021 11:37,13343.0,Rechargeable Pet Nail Grinder,22960,,-1,-25.5,25.5
+6/20/2021 13:52,13408.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,25.5
+6/20/2021 13:56,16700.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,25.5
+6/20/2021 16:05,17490.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+6/21/2021 17:13,17139.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+6/21/2021 17:14,17677.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+6/21/2021 17:25,14040.0,Pet Grooming Brush,20725,,0,0.0,9.9
+6/21/2021 17:25,14040.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+6/21/2021 17:59,,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-1,-29.7,29.7
+6/21/2021 17:59,,Pet Grooming Brush,20725,,-2,-19.8,9.9
+6/21/2021 17:59,,Pet Odor Eliminator,84879,,-4,-40.56,10.14
+6/22/2021 10:39,15840.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+6/23/2021 13:10,18223.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+6/23/2021 13:15,14911.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+6/23/2021 16:15,13089.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+6/26/2021 15:47,17731.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-1,-29.7,29.7
+6/26/2021 15:47,17731.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+6/26/2021 15:47,17731.0,Templation Soft Cat Treats,23084,,-2,-24.96,12.48
+6/27/2021 17:28,13014.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+6/28/2021 11:59,13300.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+6/28/2021 15:20,,Rechargeable Pet Nail Grinder,22960,,0,0.0,49.74
+6/29/2021 10:30,13881.0,UltraSound Dog Barking Deterrent,22720,,-2,-51.0,25.5
+6/29/2021 13:29,15311.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,10.56
+6/29/2021 13:29,15311.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,0,0.0,10.74
+6/30/2021 10:31,13113.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,0,0.0,24.9
+7/1/2021 12:11,16746.0,Pet Grooming Brush,20725,,0,0.0,9.9
+7/1/2021 14:35,12709.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+7/1/2021 15:14,18075.0,NexGard Chew for Dogs,82484,,0,0.0,47.7
+7/5/2021 14:51,16571.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+7/6/2021 13:21,17511.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+7/7/2021 10:17,12507.0,Rechargeable Pet Nail Grinder,22960,,-1,-25.5,25.5
+7/8/2021 13:04,14680.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+7/8/2021 13:04,14680.0,Pet Grooming Brush,20725,,-1,-9.9,9.9
+7/8/2021 13:51,13047.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+7/8/2021 13:51,13047.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+7/8/2021 13:51,13047.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+7/8/2021 14:53,13338.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+7/11/2021 11:09,13627.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+7/11/2021 11:44,14690.0,Pet Odor Eliminator,84879,,0,0.0,10.14
+7/12/2021 9:58,15719.0,Pet Grooming Brush,20725,,0,0.0,9.9
+7/12/2021 11:11,14267.0,Rechargeable Pet Nail Grinder,22960,,-2,-45.0,22.5
+7/12/2021 11:11,14267.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-76.5,76.5
+7/14/2021 10:19,14426.0,NexGard Chew for Dogs,82484,,-2,-81.0,40.5
+7/14/2021 11:41,14562.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,-1,-17.7,17.7
+7/15/2021 15:22,14572.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+7/18/2021 10:14,16398.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-1,-5.1,5.1
+7/18/2021 12:17,14390.0,Purina Pro Plan Adult Sensitive Skin,23284,,0,0.0,47.7
+7/18/2021 14:24,16717.0,Dog and Puppy Pads,85123A,,-1,-17.7,17.7
+7/19/2021 11:57,16401.0,Pet Grooming Brush,20725,,0,0.0,9.9
+7/19/2021 11:57,16401.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+7/19/2021 12:26,12415.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+7/19/2021 12:26,12415.0,Pet Grooming Brush,20725,,0,0.0,9.9
+7/19/2021 12:26,12415.0,Pet Hair Remover,23203,,0,0.0,12.48
+7/19/2021 12:26,12415.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+7/19/2021 13:26,17738.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+7/21/2021 10:52,17811.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+7/21/2021 17:56,13590.0,Pet Grooming Brush,20725,,0,0.0,9.9
+7/22/2021 16:11,13098.0,Pet Grooming Brush,20725,,0,0.0,9.9
+7/24/2021 13:26,13802.0,Pet Grooming Brush,20725,,-16,-139.2,8.7
+7/26/2021 13:54,12471.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+7/28/2021 10:57,16133.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+7/28/2021 12:08,18223.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+7/28/2021 12:19,15827.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+7/28/2021 12:19,15827.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+7/28/2021 13:40,15845.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+7/28/2021 19:36,13136.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+8/1/2021 15:39,17389.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+8/2/2021 11:58,15602.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+8/2/2021 13:19,15311.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,10.74
+8/2/2021 13:19,15311.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+8/2/2021 17:23,13081.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+8/3/2021 10:49,13534.0,Pet Hair Remover,23203,,0,0.0,12.48
+8/3/2021 12:16,12748.0,Earth Rated Dog Poop Bags,85099B,,-16,-171.84,10.74
+8/3/2021 12:55,15625.0,Pet Grooming Brush,20725,,0,0.0,9.9
+8/3/2021 14:22,16525.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-1,-29.7,29.7
+8/4/2021 10:36,12476.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+8/4/2021 14:46,14911.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,-20,-306.0,15.3
+8/4/2021 14:46,14911.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-5,-328.5,65.7
+8/4/2021 17:06,12584.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+8/4/2021 17:06,12584.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+8/4/2021 17:58,14621.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+8/8/2021 14:32,17511.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+8/8/2021 14:32,17511.0,NexGard Chew for Dogs,82484,,0,0.0,40.5
+8/8/2021 14:32,17511.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+8/10/2021 14:17,13767.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+8/11/2021 10:24,14305.0,Dog and Puppy Pads,85123A,,-1,-17.7,17.7
+8/12/2021 10:17,12709.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+8/12/2021 10:31,12656.0,Pet Grooming Brush,20725,,-1,-9.9,9.9
+8/14/2021 12:10,17613.0,Pet Odor Eliminator,84879,,0,0.0,10.14
+8/14/2021 14:33,12409.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,0,0.0,29.7
+8/17/2021 13:14,16755.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+8/17/2021 13:14,16755.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+8/18/2021 6:24,14911.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+8/22/2021 17:10,17949.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-25,-1642.5,65.7
+8/24/2021 8:55,13576.0,Canned Cat Food,21137,,0,0.0,20.34
+8/24/2021 9:10,14194.0,Pet Hair Remover,23203,,0,0.0,12.48
+8/24/2021 9:22,16133.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+8/24/2021 10:54,14796.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+8/25/2021 14:15,18204.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+8/30/2021 10:40,14911.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+8/31/2021 8:56,17865.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+8/31/2021 12:24,18225.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+8/31/2021 12:39,12560.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+8/31/2021 13:10,12931.0,Pet Hair Remover,23203,,-33,-354.42,10.74
+8/31/2021 16:32,13050.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+9/1/2021 12:56,17841.0,Pet Grooming Brush,20725,,0,0.0,9.9
+9/2/2021 9:47,14299.0,Dog and Puppy Pads,85123A,,-1,-17.7,17.7
+9/2/2021 9:47,14299.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+9/2/2021 11:31,12471.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+9/2/2021 13:16,14606.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,0,0.0,29.7
+9/2/2021 15:17,14415.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+9/2/2021 17:51,16401.0,Pet Grooming Brush,20725,,0,0.0,9.9
+9/2/2021 17:51,16401.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+9/5/2021 12:38,14156.0,Pet Grooming Brush,20725,,-16,-139.2,8.7
+9/5/2021 15:20,12683.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+9/6/2021 10:42,15521.0,Pet Hair Remover,23203,,-1,-12.48,12.48
+9/7/2021 12:48,14606.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+9/7/2021 12:48,14606.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,0,0.0,29.7
+9/9/2021 11:57,14911.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+9/9/2021 12:00,17865.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+9/12/2021 9:43,13577.0,Earth Rated Dog Poop Bags,85099B,,-1,-12.48,12.48
+9/12/2021 17:11,16191.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+9/12/2021 17:19,18223.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+9/12/2021 18:04,14688.0,Earth Rated Dog Poop Bags,85099B,,-1,-12.48,12.48
+9/12/2021 18:04,14688.0,Pet Grooming Brush,20725,,-1,-9.9,9.9
+9/12/2021 18:04,14688.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,-1,-29.7,29.7
+9/12/2021 18:04,14688.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-2,-10.2,5.1
+9/12/2021 18:14,13319.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+9/12/2021 18:18,16670.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+9/12/2021 18:19,16187.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-1,-29.7,29.7
+9/12/2021 18:26,15136.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+9/14/2021 15:15,16150.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+9/14/2021 15:42,14911.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+9/15/2021 16:16,17139.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+9/15/2021 16:22,15449.0,Pet Grooming Brush,20725,,0,0.0,9.9
+9/15/2021 16:45,18172.0,Pet Hair Remover,23203,,0,0.0,12.48
+9/15/2021 17:04,13319.0,Pet Odor Eliminator,84879,,0,0.0,10.14
+9/16/2021 8:51,13993.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+9/16/2021 11:14,14842.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+9/16/2021 12:45,12513.0,Rechargeable Pet Nail Grinder,22960,,-1,-25.5,25.5
+9/19/2021 11:50,17612.0,Canned Cat Food,21137,,0,0.0,22.5
+9/19/2021 14:52,13767.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+9/19/2021 15:54,15465.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+9/19/2021 15:57,15755.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+9/19/2021 16:16,15764.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+9/19/2021 16:23,16211.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+9/20/2021 16:33,12540.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+9/21/2021 9:44,15888.0,Pet Odor Eliminator,84879,,-1,-10.14,10.14
+9/21/2021 9:49,16341.0,Pet Grooming Brush,20725,,0,0.0,9.9
+9/21/2021 13:01,17511.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+9/21/2021 14:16,12409.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,0,0.0,24.9
+9/21/2021 16:48,13282.0,Purina Pro Plan Adult Sensitive Skin,23284,,-1,-40.5,40.5
+9/21/2021 17:01,15810.0,Pet Grooming Brush,20725,,-1,-9.9,9.9
+9/21/2021 17:04,17567.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-1,-5.1,5.1
+9/22/2021 9:53,15201.0,Earth Rated Dog Poop Bags,85099B,,-1,-12.48,12.48
+9/22/2021 9:53,15201.0,Pet Hair Remover,23203,,-1,-12.48,12.48
+9/22/2021 9:53,15201.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,0,0.0,29.7
+9/22/2021 10:12,16160.0,Pet Odor Eliminator,84879,,-1,-10.14,10.14
+9/22/2021 10:58,17460.0,Dog and Puppy Pads,85123A,,-2,-35.4,17.7
+9/22/2021 18:21,16984.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+9/26/2021 12:21,12583.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-2,-10.2,5.1
+9/27/2021 10:21,17480.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+9/27/2021 11:17,16573.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+9/28/2021 9:09,13115.0,Pet Grooming Brush,20725,,0,0.0,9.9
+9/28/2021 11:20,14395.0,NexGard Chew for Dogs,82484,,0,0.0,47.7
+9/29/2021 11:34,13725.0,Pet Grooming Brush,20725,,0,0.0,9.9
+9/29/2021 12:38,14680.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,0,0.0,24.9
+9/29/2021 12:38,14680.0,Pet Grooming Brush,20725,,-8,-69.6,8.7
+9/29/2021 12:49,14680.0,Earth Rated Dog Poop Bags,85099B,,-16,-171.84,10.74
+9/29/2021 12:49,14680.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-8,-199.2,24.9
+9/30/2021 10:46,12940.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+9/30/2021 12:47,17405.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+9/30/2021 12:50,14911.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+9/30/2021 12:50,14911.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+10/3/2021 16:49,14031.0,Purina Pro Plan Adult Sensitive Skin,23284,,-33,-1401.84,42.48
+10/4/2021 10:37,15339.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+10/4/2021 17:31,18053.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+10/4/2021 17:51,16401.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+10/5/2021 12:14,12841.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-1,-29.7,29.7
+10/5/2021 12:14,12841.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,0,0.0,29.7
+10/5/2021 12:14,12841.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+10/5/2021 12:58,14534.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,0,0.0,29.7
+10/6/2021 10:57,15769.0,Earth Rated Dog Poop Bags,85099B,,-23,-247.02,10.74
+10/6/2021 10:57,15769.0,Pet Hair Remover,23203,,-36,-386.64,10.74
+10/6/2021 14:02,17511.0,Pet Grooming Brush,20725,,0,0.0,8.7
+10/6/2021 14:02,17511.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+10/6/2021 15:46,13924.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+10/6/2021 16:47,16653.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+10/6/2021 18:00,15611.0,Templation Soft Cat Treats,23084,,0,0.0,10.74
+10/6/2021 18:12,17405.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+10/6/2021 18:14,14141.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+10/6/2021 18:27,12584.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+10/6/2021 18:27,12584.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+10/6/2021 18:30,16160.0,Pet Hair Remover,23203,,0,0.0,12.48
+10/6/2021 18:39,13983.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+10/6/2021 18:40,18172.0,Pet Hair Remover,23203,,0,0.0,12.48
+10/6/2021 18:44,13704.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+10/6/2021 19:51,15365.0,Pet Grooming Brush,20725,,-1,-9.9,9.9
+10/6/2021 19:51,15365.0,Pet Odor Eliminator,84879,,-2,-20.28,10.14
+10/6/2021 19:51,15365.0,Rechargeable Pet Nail Grinder,22960,,-1,-25.5,25.5
+10/6/2021 20:08,16839.0,Earth Rated Dog Poop Bags,85099B,,-9,-96.66,10.74
+10/6/2021 20:08,16839.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-4,-99.6,24.9
+10/6/2021 20:08,16839.0,Pet Grooming Brush,20725,,-1,-9.9,9.9
+10/6/2021 20:08,16839.0,Pet Hair Remover,23203,,-3,-37.44,12.48
+10/6/2021 20:08,16839.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,0,0.0,29.7
+10/6/2021 20:08,16839.0,Rechargeable Pet Nail Grinder,22960,,-1,-22.5,22.5
+10/6/2021 20:08,16839.0,UltraSound Dog Barking Deterrent,22720,,-4,-102.0,25.5
+10/6/2021 20:33,15606.0,Rechargeable Pet Nail Grinder,22960,,-1,-22.5,22.5
+10/6/2021 20:36,14557.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,-6,-91.8,15.3
+10/6/2021 20:36,14557.0,Rechargeable Pet Nail Grinder,22960,,-2,-45.0,22.5
+10/7/2021 12:11,13798.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,9.9
+10/7/2021 16:49,15311.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,10.74
+10/7/2021 16:49,15311.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,0,0.0,10.74
+10/9/2021 12:56,13113.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+10/9/2021 12:56,13113.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-3,-67.32,22.44
+10/9/2021 12:56,13113.0,Pet Grooming Brush,20725,,-1,-9.9,9.9
+10/9/2021 12:56,13113.0,Pet Grooming Brush,20725,,0,0.0,9.9
+10/9/2021 12:56,13113.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,-8,-179.52,22.44
+10/9/2021 12:56,13113.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+10/10/2021 10:52,13113.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+10/10/2021 11:54,14665.0,Canned Cat Food,21137,,0,0.0,22.5
+10/10/2021 16:55,14644.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+10/11/2021 11:01,16029.0,Earth Rated Dog Poop Bags,85099B,,-50,-522.0,10.44
+10/11/2021 11:01,16029.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,-33,-344.52,10.44
+10/11/2021 16:09,16161.0,Pet Grooming Brush,20725,,0,0.0,9.9
+10/11/2021 16:09,16161.0,Pet Hair Remover,23203,,0,0.0,12.48
+10/12/2021 14:29,17017.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+10/12/2021 14:54,15473.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,-6,-91.8,15.3
+10/12/2021 14:55,15473.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,-6,-91.8,15.3
+10/12/2021 16:17,12607.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+10/13/2021 10:49,13954.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+10/13/2021 11:30,16873.0,Pet Hair Remover,23203,,0,0.0,12.48
+10/13/2021 13:49,14626.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+10/13/2021 14:27,17813.0,Pet Odor Eliminator,84879,,-1,-10.14,10.14
+10/13/2021 15:05,12709.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,22.5
+10/14/2021 12:02,,Pet Grooming Brush,20725,,-1,-9.9,9.9
+10/17/2021 15:07,12454.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-5,-328.5,65.7
+10/19/2021 13:37,17063.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+10/19/2021 14:13,13314.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+10/23/2021 9:42,12572.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+10/24/2021 10:25,14607.0,Earth Rated Dog Poop Bags,85099B,,-16,-171.84,10.74
+10/24/2021 10:25,14607.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,-20,-306.0,15.3
+10/24/2021 10:25,14607.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,-16,-171.84,10.74
+10/24/2021 10:25,14607.0,Purina Pro Plan Adult Sensitive Skin,23284,,-1,-42.48,42.48
+10/24/2021 12:06,17811.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+10/24/2021 13:31,13534.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+10/24/2021 13:31,13534.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,0,0.0,12.48
+10/24/2021 13:39,13098.0,Pet Odor Eliminator,84879,,0,0.0,10.14
+10/24/2021 13:51,14156.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-5,-25.5,5.1
+10/24/2021 16:03,12380.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+10/26/2021 9:38,12584.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+10/27/2021 10:56,17672.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+10/27/2021 13:45,12471.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+11/1/2021 9:37,14329.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+11/1/2021 9:46,17865.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+11/1/2021 11:55,15311.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,0,0.0,10.74
+11/2/2021 9:50,17109.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/2/2021 10:14,17811.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+11/2/2021 11:51,17841.0,ProBiotic Supplements for Dogs,79321,,0,0.0,34.5
+11/3/2021 13:52,15521.0,Templation Soft Cat Treats,23084,,-7,-75.18,10.74
+11/3/2021 19:42,15482.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-4,-262.8,65.7
+11/4/2021 12:05,15809.0,Purina Pro Plan Adult Sensitive Skin,23284,,0,0.0,49.5
+11/4/2021 12:05,15809.0,Templation Soft Cat Treats,23084,,-1,-12.48,12.48
+11/4/2021 12:57,14112.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+11/4/2021 13:13,14156.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+11/4/2021 13:22,13534.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+11/4/2021 13:22,13534.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,0,0.0,12.48
+11/4/2021 13:25,15110.0,ChomChom Pet Hair Remover - Reusable Cat and Dog Hair Remover,22114,,0,0.0,25.5
+11/4/2021 13:40,17109.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/4/2021 13:51,14292.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+11/4/2021 18:11,15482.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-4,-262.8,65.7
+11/6/2021 11:44,15426.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+11/7/2021 8:41,17107.0,Pet Grooming Brush,20725,,-16,-139.2,8.7
+11/7/2021 9:20,13924.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/7/2021 10:58,16678.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+11/7/2021 16:39,15502.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-10,-51.0,5.1
+11/8/2021 8:55,12656.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+11/8/2021 9:52,18223.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/8/2021 9:56,15066.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+11/8/2021 9:56,15066.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+11/8/2021 9:56,15066.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/8/2021 9:57,17924.0,Templation Soft Cat Treats,23084,,0,0.0,12.48
+11/8/2021 11:17,13587.0,Purina Pro Plan Adult Sensitive Skin,23284,,0,0.0,49.5
+11/8/2021 11:38,15005.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+11/8/2021 11:38,15005.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/8/2021 12:25,16013.0,ProBiotic Supplements for Dogs,79321,,0,0.0,29.7
+11/8/2021 12:25,16013.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+11/8/2021 12:40,13924.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/8/2021 13:30,12613.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/8/2021 16:25,15271.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+11/8/2021 17:53,16790.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+11/9/2021 11:41,17511.0,Earth Rated Dog Poop Bags,85099B,,-16,-171.84,10.74
+11/9/2021 11:41,17511.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,-16,-171.84,10.74
+11/9/2021 11:41,17511.0,Pet Hair Remover,23203,,-16,-171.84,10.74
+11/10/2021 11:12,12544.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+11/10/2021 12:08,15785.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-1,-4.32,4.32
+11/10/2021 13:21,17651.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/10/2021 14:48,13767.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+11/10/2021 14:53,12952.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/11/2021 11:15,13881.0,Litter Slide Multi-Cat Scented Clumping Clay Cat Litter,22086,,-6,-91.8,15.3
+11/14/2021 12:03,16790.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+11/14/2021 12:13,12610.0,Rechargeable Pet Nail Grinder,22960,,-1,-25.5,25.5
+11/14/2021 12:56,12584.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+11/14/2021 12:56,12584.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+11/14/2021 12:56,12584.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/14/2021 13:35,13447.0,Templation Soft Cat Treats,23084,,0,0.0,12.48
+11/14/2021 13:38,15953.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+11/15/2021 13:22,15311.0,Milk-Bone MaroSnacks Dog Treats with Real Bone,22386,,0,0.0,10.74
+11/16/2021 16:09,16278.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+11/18/2021 9:42,13396.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+11/18/2021 9:54,13266.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/18/2021 16:12,13012.0,Canned Cat Food,21137,,0,0.0,22.5
+11/18/2021 16:58,14911.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+11/18/2021 17:03,13078.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-2,-8.64,4.32
+11/20/2021 14:48,17841.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+11/21/2021 13:25,15681.0,Templation Soft Cat Treats,23084,,-2,-24.96,12.48
+11/22/2021 10:18,18274.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+11/22/2021 10:18,18274.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+11/22/2021 17:31,,ChomChom Pet Hair Remover - Reusable Cat and Dog Hair Remover,22114,,-8,-180.0,22.5
+11/23/2021 13:48,17511.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+11/24/2021 10:40,15482.0,ChomChom Pet Hair Remover - Reusable Cat and Dog Hair Remover,22114,,-4,-90.0,22.5
+11/24/2021 10:40,15482.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-33,-142.56,4.32
+11/24/2021 10:40,15482.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-2,-153.0,76.5
+11/25/2021 15:18,13069.0,"Memory Foam Pet Beds for Small, Medium, and Large Dogs and Cats",47566,,-1,-29.7,29.7
+11/25/2021 15:18,13069.0,Purina ONE SmartBlend Natural Adult Chicken 10lb,23298,,0,0.0,29.7
+11/28/2021 15:43,12657.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-76.5,76.5
+11/30/2021 11:39,12553.0,Templation Soft Cat Treats,23084,,0,0.0,12.48
+11/30/2021 14:46,13777.0,Dog and Puppy Pads,85123A,,0,0.0,15.3
+11/30/2021 14:58,14644.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,65.7
+11/30/2021 17:12,17340.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+11/30/2021 17:39,15676.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+12/1/2021 8:29,17636.0,Pet Hair Remover,23203,,0,0.0,12.48
+12/1/2021 8:44,13078.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,-2,-8.64,4.32
+12/1/2021 9:19,14389.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+12/1/2021 9:36,15563.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+12/1/2021 9:44,14853.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+12/1/2021 10:41,15993.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+12/2/2021 11:21,12359.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+12/4/2021 13:37,15867.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+12/5/2021 11:02,16360.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,5.1
+12/5/2021 15:28,15984.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+12/5/2021 16:39,12479.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+12/6/2021 9:29,17659.0,Templation Soft Cat Treats,23084,,0,0.0,12.48
+12/6/2021 9:46,17611.0,ProBiotic Supplements for Dogs,79321,,0,0.0,34.5
+12/6/2021 10:32,14543.0,Rechargeable Pet Nail Grinder,22960,,0,0.0,25.5
+12/6/2021 11:23,16764.0,Dog and Puppy Pads,85123A,,0,0.0,17.7
+12/6/2021 11:40,12753.0,Templation Soft Cat Treats,23084,,-1,-10.74,10.74
+12/6/2021 14:07,16571.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+12/6/2021 14:57,15622.0,Purina Pro Plan Adult Sensitive Skin,23284,,0,0.0,49.5
+12/7/2021 12:24,16393.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+12/7/2021 12:46,12785.0,Earth Rated Dog Poop Bags,85099B,,0,0.0,12.48
+12/8/2021 10:06,16019.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,-1,-65.7,65.7
+12/8/2021 10:14,12558.0,Earth Rated Dog Poop Bags,85099B,,-1,-12.48,12.48
+12/8/2021 10:34,15950.0,Taste of the Wild High Prairie Grain-Free Dry Dog Food 40lb,22423,,0,0.0,76.5
+12/8/2021 11:42,16933.0,NexGard Chew for Dogs,82484,,0,0.0,47.7
+12/8/2021 14:08,12476.0,NexGard Chew for Dogs,82484,,0,0.0,47.7
+12/8/2021 18:48,13078.0,Sheba Perfect Portions Pat Wet Cat Food,22197,,0,0.0,4.32
+12/8/2021 19:20,13883.0,UltraSound Dog Barking Deterrent,22720,,0,0.0,29.7
+12/8/2021 19:28,17924.0,Templation Soft Cat Treats,23084,,0,0.0,12.48
